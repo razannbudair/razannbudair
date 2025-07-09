@@ -1,10 +1,10 @@
-## Hi there I'M Razan 👋
+## Hi there, I'm Razan 👋
 
 
 ###  Welcome to My GitHub Profile!
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?razannbudair=MonaAli&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?razannbudair=MonaAli&layout=compact&theme=github_dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?razannbudair=MonaAli&theme=github-dark-blue)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=razannbudairMonaAli&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razannbudairMonaAli&layout=compact&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=razannbudaiMonaAli&theme=github-dark-blue)
 
 
