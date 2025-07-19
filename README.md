@@ -33,6 +33,8 @@
 ![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white)
 
 
+---
+
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=razannbudair&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razannbudair&layout=compact&theme=github_dark)
