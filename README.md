@@ -1,6 +1,11 @@
 ## Hi there, I'm Razan !
 
 ### Welcome to My GitHub Profile👋
+### 👩‍💻 About Me
+- 🎓 Computer Science Student with a strong passion for Frontend Development.
+- 🌱 Currently learning advanced React and some Testing Tools.
+- 📫 How to reach me: [razaanbudair@gmail.com](mailto:razaanbudair@gmail.com)
+
 
 ## 🎯 Core Focus: Frontend Development  
 🔹 With additional skills in UI/UX Design to support modern, user-friendly interfaces.
@@ -15,12 +20,18 @@
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   
+<!-- Another Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+ 
   <!-- UI/UX Design Tools -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
 </p>
-
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=razannbudair&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razannbudair&layout=compact&theme=github_dark)
