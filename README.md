@@ -11,7 +11,7 @@
 🔹 With additional skills in UI/UX Design to support modern, user-friendly interfaces.
 
 ### 💻 Frontend Development (Main Stack) Currently
-<p>
+  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -32,7 +32,7 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white)
 
-</p>
+
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=razannbudair&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razannbudair&layout=compact&theme=github_dark)
