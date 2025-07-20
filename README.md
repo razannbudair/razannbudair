@@ -21,13 +21,13 @@
 
 ---
 
-### 🌐 Additional Languages
+### Additional Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
-### 🎨 UI/UX Design Tools
+### UI/UX Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white)
