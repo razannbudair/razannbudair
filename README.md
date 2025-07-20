@@ -2,9 +2,9 @@
 
 ### Welcome to My GitHub Profile👋
 ### 👩‍💻 About Me
-- 🎓 Computer Science Student with a strong passion for Frontend Development.
-- 🌱 Currently learning advanced React & TypeScript and some Testing Tools.
-- 📫 How to reach me: [razaanbudair@gmail.com](mailto:razaanbudair@gmail.com)
+- Computer Science Student with a strong passion for Frontend Development.
+- Currently learning advanced React & TypeScript and some Testing Tools.
+- How to reach me: [razaanbudair@gmail.com](mailto:razaanbudair@gmail.com)
 
 ---
 ## 🎯 Core Focus: Frontend Development  
