@@ -1,11 +1,6 @@
 ## Hi there, I'm Razan !
-
-### Welcome to My GitHub Profile👋
-### 👩‍💻 About Me
-- Computer Science Student with a strong passion for Frontend Development.
-- Currently learning advanced React & TypeScript and some Testing Tools.
-- How to reach me: [razaanbudair@gmail.com](mailto:razaanbudair@gmail.com)
-
+### Welcome to My GitHub Profile
+### For Contacts :  [razaanbudair@gmail.com](mailto:razaanbudair@gmail.com)
 ---
 ## 🎯 Core Focus: Frontend Development  
 🔹 With additional skills in UI/UX Design to support modern, user-friendly interfaces.
@@ -18,6 +13,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Emmet](https://img.shields.io/badge/Emmet-Tool-green?logo=bolt)
 
 ---
 
@@ -25,9 +21,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-
-
 ---
 
 ### UI/UX Design Tools
@@ -38,7 +31,7 @@
 
 ---
 
-
+---
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=razannbudair&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razannbudair&layout=compact&theme=github_dark)
 
