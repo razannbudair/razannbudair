@@ -1,3 +1,4 @@
+
 ## Hi there, I'm Razan !
 ### Welcome to My GitHub Profile
 ### For Contacts :  [razaanbudair@gmail.com](mailto:razaanbudair@gmail.com)
@@ -10,6 +11,8 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=sharp&logoColor=white)
 
 ---
 
@@ -23,6 +26,10 @@
 ### Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)
+
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
 ### UI/UX Design Tools/Skills
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -35,5 +42,3 @@
 ---
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=razannbudair&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razannbudair&layout=compact&theme=github_dark)
-
-
